@@ -12,7 +12,7 @@ class MainActivity: AppCompatActivity() {
 
 
         val imageView : ImageView = findViewById(R.id.imageView)
-        var id: Int = android.R.drawable.star_big_on
+        var id: Int = R.drawable.normal_galaxy
 
         findViewById<Button>(R.id.button).setOnClickListener{
             if (id == R.drawable.dark_galaxy) {

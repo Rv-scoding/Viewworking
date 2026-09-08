@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "View working"
 include(":app")
- 
+include(":app")
